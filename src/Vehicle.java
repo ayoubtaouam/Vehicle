@@ -45,5 +45,6 @@ class Vehicle{
         System.out.println("Make: " + getMake());
         System.out.println("Model: " + getModel());
         System.out.println("Rental Price: " + getRentalPrice());
+        System.out.println("Modification");
     }
 }
